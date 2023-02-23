@@ -1,0 +1,9 @@
+#atras {
+    position: fixed;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+}
+body {
+    background-size:cover;
+}
